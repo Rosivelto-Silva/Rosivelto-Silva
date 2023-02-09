@@ -29,5 +29,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines="Se+fosse+fácil,+todo+mundo+faria";)](https://git.io/typing-svg)
 
+  <div align="center">
+
+  ![Snake animation](https://github.com/Rosivelto-Silva/rosivelto-silva/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
