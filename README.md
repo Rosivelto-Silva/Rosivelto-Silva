@@ -32,8 +32,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-  <div align="center">
-
-  ![Snake animation](https://github.com/Rosivelto-Silva/rosivelto-silva/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
