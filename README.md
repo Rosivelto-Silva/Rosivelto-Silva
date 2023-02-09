@@ -7,6 +7,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](11970204499)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rosiveltofilho123@gmail.com)
 
+![oie_transparent](https://user-images.githubusercontent.com/111574702/217687118-b7272559-11bc-4f73-bd08-896bc83a266f.png)
 ![Junji-Ogaki GitHub stats](https://github-readme-stats.vercel.app/api?username=rosivelto-silva&show_icons=true&theme=radical)
 
 ## Tecnologias e IDE que eu uso no meu dia
